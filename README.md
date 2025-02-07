@@ -14,5 +14,5 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/deriana"><img src="https://github-readme-stats.vercel.app/api?username=yuna0x0&hide_border=true&show_icons=true" alt="deriana github stats"></a>
+  <a href="https://github.com/deriana"><img src="https://github-readme-stats.vercel.app/api?username=deriana&hide_border=true&show_icons=true" alt="deriana github stats"></a>
 </p>
