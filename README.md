@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.youtube.com/watch?v=RfWK6h8cYDc">
-    <img src="deriana.webp" alt="Banner">
+    <img src="deriana.gif" alt="Banner">
   </a>
 </p>
 
