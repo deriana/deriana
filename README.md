@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=RfWK6h8cYDc">
+  <a href="https://youtu.be/2p2WBAc3ZQ4?si=nSteGYeYnjbIHoN4">
     <img src="kita-ikuyo-rap.webp" alt="Banner">
   </a>
 </p>
