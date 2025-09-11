@@ -13,6 +13,6 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=RfWK6h8cYDc">
-    <img src="deriana.gif" alt="Banner">
+    <img src="kita-ikuyo-rap.webp" alt="Banner">
   </a>
 </p>
