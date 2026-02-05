@@ -9,6 +9,6 @@
 
 <p align="center">
   <a href="https://youtu.be/2p2WBAc3ZQ4?si=nSteGYeYnjbIHoN4">
-    <img src="kita-ikuyo-rap.webp" alt="Banner">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3hsYzF3am91NXJxbHNnM2dlMnI5MzR5MjE0c2R5cjRtZjQydDhwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qmfm2wErgaTQWHIo2k/giphy.gif" alt="Banner">
   </a>
 </p>
